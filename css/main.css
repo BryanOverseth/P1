@@ -1,0 +1,37 @@
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {}
+
+body{
+	font-family: 'kalimati',verdana, sans-serif;
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 0.8px;
+
+}
+
+
+h1{
+	color: #666666;
+	font-size: 50px;
+	font-weight: 50;
+	padding-top: 21px;
+	padding-bottom: 21px;
+	letter-spacing: 0px;
+}
+
+
+h2{
+	color: #f07c17;
+	font-size: 24px;
+	font-weight: bold;
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+
+
+.main-features{
+	border: 1px solid #cccccc;
+	margin-top: 30px;
+    padding-top:30px;
+    padding-bottom: 40px;
+    padding-left:30px;
+}
