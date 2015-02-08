@@ -1,37 +1,28 @@
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {}
-
+/* Main Body */
 body{
-	font-family: 'kalimati',verdana, sans-serif;
-	font-size: 16px;
-	line-height: 2;
+	font: 16px/2 "kalimati",verdana, sans-serif;
 	letter-spacing: 0.8px;
-
 }
 
-
+/* Header 1 */
 h1{
-	color: #666666;
-	font-size: 50px;
-	font-weight: 50;
-	padding-top: 21px;
-	padding-bottom: 21px;
-	letter-spacing: 0px;
+	color: #666;
+	font-size: 48px;
+	padding: 23px 0 22px 0;
+	letter-spacing: 0;
 }
 
-
+/* Header 2 */
 h2{
 	color: #f07c17;
 	font-size: 24px;
 	font-weight: bold;
-	margin-top: 0px;
-	margin-bottom: 30px;
+	margin: 0 0 30px 0;
 }
 
-
+/* Border Box Definition - Main Features */
 .main-features{
 	border: 1px solid #cccccc;
-	margin-top: 30px;
-    padding-top:30px;
-    padding-bottom: 40px;
-    padding-left:30px;
+	margin: 30px 80px 30px 0;
+	padding: 31px 40px 29px 30px;
 }
